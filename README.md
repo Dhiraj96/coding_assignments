@@ -5,4 +5,4 @@ This REPO contains the following:
 3. LinkedList: An implementation of a linked list class in C++ with testing. 
 4. Object_List: An implementation of an object list class in Java with unit testing. 
 5. Minesweeper: Creates a minesweeper game and prints its solution
-6. Sudokusolver: Solves a sudoku puzzle (if it exists) and displays the original board as well as the solution for the puzzle side by side. 
+6. Sudokusolver: Solves a sudoku puzzle (if the solution exists) and displays the original board as well as the solution for the puzzle side by side. 
